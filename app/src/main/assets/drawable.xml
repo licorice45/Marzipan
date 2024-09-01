@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+
+    <category title="System" />
+    <item drawable="dialer" name="Phone" />
+    <item drawable="sms" name="Messanging" />
+    <item drawable="contacts" />
+    <item drawable="clock" />
+    <item drawable="camera" />
+    <item drawable="gallery" />
+    <item drawable="music" />
+    <item drawable="files" />
+    <item drawable="calendar" />
+    <item drawable="mail" />
+    <item drawable="cloud" />
+    <item drawable="password_manager" />
+    <item drawable="maps" />
+    <item drawable="weather" />
+    <item drawable="bank" />
+    <item drawable="calculator" />
+    <item drawable="recorder" />
+    <item drawable="flashlight" />
+    <item drawable="backup" />
+    <item drawable="firewall" />
+    <item drawable="settings" />
+    <item drawable="sim" />
+
+    <category title="Social" />
+    <item drawable="discord" />
+    <item drawable="signal" />
+    <item drawable="spotify" />
+    <item drawable="whatsapp" name="WhatsApp" />
+    <item drawable="youtube" name="YouTube" />
+    <item drawable="newpipe" name="NewPipe" />
+    <item drawable="libretube" name="LibreTube" />
+
+    <category title="Browser" />
+    <item drawable="web_browser" />
+    <item drawable="chrome" />
+    <item drawable="chromium" />
+    <item drawable="firefox" />
+    <item drawable="google" />
+    <item drawable="mull" />
+    <item drawable="tor" name="Tor Browser" />
+
+    <category title="Misc" />
+    <item drawable="marzipan" />
+    <item drawable="localsend" name="LocalSend" />
+    <item drawable="aurora_store" />
+    <item drawable="f_droid" name="F-Droid" />
+    <item drawable="google_play" />
+    <item drawable="obsidian" />
+    <item drawable="hypatia" />
+    <item drawable="godot" />
+
+    <category title="Games" />
+    <item drawable="lexica" />
+    <item drawable="battle_cats" />
+    <item drawable="crossy_road" />
+    <item drawable="super_hexagon" />
+    <item drawable="altverz" name="AltverZ" />
+
+</resources>

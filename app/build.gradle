@@ -1,0 +1,69 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdk rootProject.ext.CompileSdk
+
+    defaultConfig {
+        applicationId 'com.licorice.marzipan'
+        minSdkVersion rootProject.ext.MinSdk
+        targetSdkVersion rootProject.ext.TargetSdk
+        versionCode 1
+        versionName '1.0.0'
+        multiDexEnabled true
+
+        // Naming app bundles
+        setArchivesBaseName("${parent.name}-v${versionCode}")
+    }
+
+    bundle {
+        language {
+            enableSplit false
+        }
+    }
+
+    buildTypes {
+        release {
+            debuggable false
+            minifyEnabled true
+        }
+    }
+
+    namespace 'com.licorice.marzipan'
+
+    compileOptions {
+        encoding = 'UTF-8'
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
+dependencies {
+    /*
+     * CandyBar Material Dashboard Library
+     *
+     * TODO: How to update the dashboard?!
+     * Check this update guide for every version
+     *      - https://github.com/zixpo/candybar-sample/wiki/Updating-the-dashboard
+     * If you've missed some versions you've to also follow update guide for those versions
+     */
+
+    implementation 'com.github.Donnnno:candybar-foss:3.19.0'
+
+}
+
+// Code for automatically copying appfilter.xml and drawable.xml
+// from `res/xml` directory to `assets` directory
+tasks.register('copyXMLs') {
+    ['appfilter.xml', 'drawable.xml'].each { file ->
+        copy {
+            from "$projectDir/src/main/res/xml/$file"
+            into "$projectDir/src/main/assets/"
+        }
+    }
+}
+
+tasks.configureEach { task ->
+    if (task.name == 'assembleDebug' || task.name == 'assembleRelease') {
+        task.dependsOn copyXMLs
+    }
+}
