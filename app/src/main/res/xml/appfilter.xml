@@ -72,6 +72,8 @@
     <!-- Social -->
     <item component="ComponentInfo{io.github.pyoncord.app/com.discord.main.MainDefault}" drawable="discord" />
     <item component="ComponentInfo{io.github.pyoncord.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity}" drawable="discord" />
+    <item component="ComponentInfo{im.vector.app/im.vector.application.features.Alias}" drawable="element" />
+    <item component="ComponentInfo{io.element.android.x/io.element.android.x.MainActivity}" drawable="element" />
     <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{org.jellyfin.androidtv/org.jellyfin.androidtv.ui.startup.StartupActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{com.unicornsonlsd.finamp/com.ryanheise.audioservice.AudioServiceActivity}" drawable="jellyfin" />

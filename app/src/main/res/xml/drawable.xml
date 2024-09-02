@@ -28,6 +28,7 @@
 
     <category title="Social" />
     <item drawable="discord" />
+    <item drawable="element" />
     <item drawable="jellyfin" />
     <item drawable="pinterest" />
     <item drawable="signal" />
