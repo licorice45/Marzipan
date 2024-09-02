@@ -56,6 +56,9 @@
 
     <category title="Games" />
     <item drawable="lexica" />
+    <item drawable="quinb" />
+    <item drawable="xeonjia" />
+    <item drawable="zoysii" />
     <item drawable="battle_cats" />
     <item drawable="crossy_road" />
     <item drawable="super_hexagon" />
