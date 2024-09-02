@@ -10,8 +10,8 @@
     * <u> for Underline
     * <a href="linkUrl">Link Text</a> for links -->
     <string-array name="changelog">
-        <item>Created Marzipan Icons</item>
-        <item>Added 49 Icons</item>
+        <item>Added 4 Icons</item>
+        <item>Fixed using wrong E-Mail address</item>
     </string-array>
 
 </resources>
