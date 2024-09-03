@@ -26,6 +26,13 @@
     <item drawable="settings" />
     <item drawable="sim" />
 
+    <category title="Utility" />
+    <item drawable="aegis" />
+    <item drawable="github" name="GitHub" />
+    <item drawable="hypatia" />
+    <item drawable="localsend" name="LocalSend" />
+    <item drawable="obsidian" />
+
     <category title="Social" />
     <item drawable="discord" />
     <item drawable="element" />
@@ -49,13 +56,10 @@
 
     <category title="Misc" />
     <item drawable="marzipan" />
-    <item drawable="localsend" name="LocalSend" />
     <item drawable="aurora_store" />
     <item drawable="f_droid" name="F-Droid" />
     <item drawable="google_play" />
     <item drawable="jellyfin" />
-    <item drawable="obsidian" />
-    <item drawable="hypatia" />
     <item drawable="godot" />
 
     <category title="Games" />

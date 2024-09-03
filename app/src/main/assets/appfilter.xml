@@ -44,7 +44,6 @@
     <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files" />
     <item component="ComponentInfo{org.calyxos.glimpse/org.lineageos.glimpse.MainActivity}" drawable="gallery" />
     <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="gallery" />
-    <item component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}" drawable="localsend" />
     <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="mail"/>
     <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.MainActivity}" drawable="mail"/>
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps" />
@@ -69,6 +68,11 @@
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sim" />
     <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="sim" />
 
+    <!-- Utility -->
+    <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="aegis" />
+    <item component="ComponentInfo{com.github.android/com.github.android.main.MainActivity}" drawable="github" />
+    <item component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}" drawable="localsend" />
+
     <!-- Social -->
     <item component="ComponentInfo{io.github.pyoncord.app/com.discord.main.MainDefault}" drawable="discord" />
     <item component="ComponentInfo{io.github.pyoncord.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity}" drawable="discord" />
@@ -85,6 +89,7 @@
     <item component="ComponentInfo{com.spotify.lite/com.spotify.litenavigation.launcher.LauncherActivity}" drawable="spotify" />
     <item component="ComponentInfo{com.spotify.s4a/com.spotify.s4a.SplashActivity}" drawable="spotify" />
     <item component="ComponentInfo{fm.anchor.android/com.spotify.app.s4p.main.applications.s4p.MainActivity}" drawable="spotify" />
+    <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
     <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube"/>
     <item component="ComponentInfo{org.schabi.newpipe/org.schabi.newpipe.MainActivity}" drawable="newpipe" />
@@ -108,6 +113,7 @@
     <item component="ComponentInfo{xyz.deepdaikon.quinb/xyz.deepdaikon.quinb.MainActivity}" drawable="quinb" />
     <item component="ComponentInfo{xyz.deepdaikon.xeonjia/xyz.deepdaikon.xeonjia.MainActivity}" drawable="xeonjia" />
     <item component="ComponentInfo{xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity}" drawable="zoysii" />
+    <item component="ComponentInfo{com.innersloth.spacemafia/com.innersloth.spacemafia.EosUnityPlayerActivity}" drawable="among_us" />
     <item component="ComponentInfo{jp.co.ponos.battlecatsen/jp.co.ponos.battlecats.MyActivity}" drawable="battle_cats" />
     <item component="ComponentInfo{com.yodo1.crossyroad/com.google.firebase.MessagingUnityPlayerActivity}" drawable="crossy_road" />
     <item component="ComponentInfo{com.namcobandaigames.pacmantournaments/com.unity3d.player.UnityPlayerActivity}" drawable="pacman" />

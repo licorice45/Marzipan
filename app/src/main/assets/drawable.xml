@@ -26,13 +26,20 @@
     <item drawable="settings" />
     <item drawable="sim" />
 
+    <category title="Utility" />
+    <item drawable="aegis" />
+    <item drawable="github" name="GitHub" />
+    <item drawable="hypatia" />
+    <item drawable="localsend" name="LocalSend" />
+    <item drawable="obsidian" />
+
     <category title="Social" />
     <item drawable="discord" />
     <item drawable="element" />
-    <item drawable="jellyfin" />
     <item drawable="pinterest" />
     <item drawable="signal" />
     <item drawable="spotify" />
+    <item drawable="tiktok" name="TikTok" />
     <item drawable="whatsapp" name="WhatsApp" />
     <item drawable="youtube" name="YouTube" />
     <item drawable="newpipe" name="NewPipe" />
@@ -49,12 +56,10 @@
 
     <category title="Misc" />
     <item drawable="marzipan" />
-    <item drawable="localsend" name="LocalSend" />
     <item drawable="aurora_store" />
     <item drawable="f_droid" name="F-Droid" />
     <item drawable="google_play" />
-    <item drawable="obsidian" />
-    <item drawable="hypatia" />
+    <item drawable="jellyfin" />
     <item drawable="godot" />
 
     <category title="Games" />
@@ -62,6 +67,7 @@
     <item drawable="quinb" />
     <item drawable="xeonjia" />
     <item drawable="zoysii" />
+    <item drawable="among_us" />
     <item drawable="battle_cats" />
     <item drawable="crossy_road" />
     <item drawable="pacman" name="Pac-Man" />
