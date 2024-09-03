@@ -29,7 +29,6 @@
     <category title="Social" />
     <item drawable="discord" />
     <item drawable="element" />
-    <item drawable="jellyfin" />
     <item drawable="pinterest" />
     <item drawable="signal" />
     <item drawable="spotify" />
@@ -53,6 +52,7 @@
     <item drawable="aurora_store" />
     <item drawable="f_droid" name="F-Droid" />
     <item drawable="google_play" />
+    <item drawable="jellyfin" />
     <item drawable="obsidian" />
     <item drawable="hypatia" />
     <item drawable="godot" />
