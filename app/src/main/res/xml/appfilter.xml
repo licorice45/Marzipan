@@ -110,6 +110,8 @@
     <item component="ComponentInfo{xyz.deepdaikon.zoysii/xyz.deepdaikon.zoysii.MainActivity}" drawable="zoysii" />
     <item component="ComponentInfo{jp.co.ponos.battlecatsen/jp.co.ponos.battlecats.MyActivity}" drawable="battle_cats" />
     <item component="ComponentInfo{com.yodo1.crossyroad/com.google.firebase.MessagingUnityPlayerActivity}" drawable="crossy_road" />
+    <item component="ComponentInfo{com.namcobandaigames.pacmantournaments/com.unity3d.player.UnityPlayerActivity}" drawable="pacman" />
+    <item component="ComponentInfo{eu.bandainamcoent.pacman256/com.unity3d.player.UnityPlayerActivity}" drawable="pacman" />
     <item component="ComponentInfo{com.ea.game.pvz2_auz/com.popcap.PvZ2.PvZ2GameActivity}" drawable="altverz" />
     <item component="ComponentInfo{com.distractionware.superhexagon.humble/com.distractionware.superhexagon.SplashScreenActivity}" drawable="super_hexagon" />
 

@@ -64,7 +64,8 @@
     <item drawable="zoysii" />
     <item drawable="battle_cats" />
     <item drawable="crossy_road" />
-    <item drawable="super_hexagon" />
+    <item drawable="pacman" name="Pac-Man" />
     <item drawable="altverz" name="AltverZ" />
+    <item drawable="super_hexagon" />
 
 </resources>
