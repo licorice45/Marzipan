@@ -19,6 +19,7 @@
     <item drawable="weather" />
     <item drawable="bank" />
     <item drawable="calculator" />
+    <item drawable="notes" />
     <item drawable="recorder" />
     <item drawable="flashlight" />
     <item drawable="backup" />

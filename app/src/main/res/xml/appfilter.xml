@@ -49,6 +49,9 @@
     <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.MapsActivity}" drawable="maps" />
     <item component="ComponentInfo{app.organicmaps/app.organicmaps.DownloadResourcesActivity}" drawable="maps" />
     <item component="ComponentInfo{org.calyxos.eleven/org.lineageos.eleven.ui.activities.HomeActivity}" drawable="music" />
+    <item component="ComponentInfo{com.kin.easynotes/com.kin.easynotes.presentation.MainActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.maelchiotti.localmaterialnotes/com.maelchiotti.localmaterialnotes.MainActivity}" drawable="notes" />
+    <item component="ComponentInfo{com.swatian.nexnotes/com.swatian.nexnotes.activities.MainActivity}" drawable="notes" />
     <item component="ComponentInfo{proton.android.pass/proton.android.pass.ui.MainActivity}" drawable="password_manager" />
     <item component="ComponentInfo{org.calyxos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="recorder" />
     <item component="ComponentInfo{com.cyb3rko.flashdim/com.cyb3rko.flashdim.activities.MainActivity}" drawable="flashlight" />
