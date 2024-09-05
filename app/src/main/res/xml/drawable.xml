@@ -37,6 +37,9 @@
     <category title="Social" />
     <item drawable="discord" />
     <item drawable="element" />
+    <item drawable="facebook" />
+    <item drawable="instagram" />
+    <item drawable="meta_messenger" name="Messenger" />
     <item drawable="pinterest" />
     <item drawable="signal" />
     <item drawable="spotify" />
