@@ -19,6 +19,7 @@
     <item drawable="weather" />
     <item drawable="bank" />
     <item drawable="calculator" />
+    <item drawable="notes" />
     <item drawable="recorder" />
     <item drawable="flashlight" />
     <item drawable="backup" />
@@ -56,6 +57,10 @@
 
     <category title="Misc" />
     <item drawable="marzipan" />
+    <item drawable="arcticons" />
+    <item drawable="arcticons_black" />
+    <item drawable="arcticons_you" name="Arcticons Material You" />
+    <item drawable="dollphone" />
     <item drawable="aurora_store" />
     <item drawable="f_droid" name="F-Droid" />
     <item drawable="google_play" />
@@ -70,6 +75,7 @@
     <item drawable="among_us" />
     <item drawable="battle_cats" />
     <item drawable="crossy_road" />
+    <item drawable="minecraft" />
     <item drawable="pacman" name="Pac-Man" />
     <item drawable="altverz" name="AltverZ" />
     <item drawable="super_hexagon" />
