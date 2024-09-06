@@ -42,6 +42,7 @@
     <item drawable="instagram" />
     <item drawable="meta_messenger" name="Messenger" />
     <item drawable="pinterest" />
+    <item drawable="reddit" />
     <item drawable="signal" />
     <item drawable="spotify" />
     <item drawable="tiktok" name="TikTok" />
