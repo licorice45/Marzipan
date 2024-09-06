@@ -30,6 +30,7 @@
     <category title="Utility" />
     <item drawable="aegis" />
     <item drawable="github" name="GitHub" />
+    <item drawable="google_auth" name="Google Authenticator" />
     <item drawable="hypatia" />
     <item drawable="localsend" name="LocalSend" />
     <item drawable="obsidian" />
