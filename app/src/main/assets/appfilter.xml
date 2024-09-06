@@ -112,8 +112,10 @@
     <item component="ComponentInfo{com.donnnno.arcticons.you/com.donnnno.arcticons.activities.MainActivity}" drawable="arcticons_you" />
     <item component="ComponentInfo{me.x2gd4.dollphone/me.x2gd4.dollphone.activities.MainActivity}" drawable="dollphone" />
     <item component="ComponentInfo{com.aurora.store/com.aurora.store.MainActivity}" drawable="aurora_store" />
+    <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="f_droid" />
     <item component="ComponentInfo{org.fdroid.basic/org.fdroid.fdroid.views.main.MainActivity}" drawable="f_droid" />
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play" />
+    <item component="ComponentInfo{dev.imranr.obtainium.fdroid/dev.imranr.obtainium.MainActivity}" drawable="obtainium" />
     <item component="ComponentInfo{org.jellyfin.mobile/org.jellyfin.mobile.MainActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{org.jellyfin.androidtv/org.jellyfin.androidtv.ui.startup.StartupActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{com.unicornsonlsd.finamp/com.ryanheise.audioservice.AudioServiceActivity}" drawable="jellyfin" />
@@ -131,6 +133,8 @@
     <item component="ComponentInfo{com.yodo1.crossyroad/com.google.firebase.MessagingUnityPlayerActivity}" drawable="crossy_road" />
     <item component="ComponentInfo{com.namcobandaigames.pacmantournaments/com.unity3d.player.UnityPlayerActivity}" drawable="pacman" />
     <item component="ComponentInfo{eu.bandainamcoent.pacman256/com.unity3d.player.UnityPlayerActivity}" drawable="pacman" />
+    <item component="ComponentInfo{com.ea.game.pvzfree_row/com.ea.game.pvzfree_row.PvZActivity}" drawable="pvz" />
+    <item component="ComponentInfo{com.ea.game.pvz2_row/com.popcap.PvZ2.PvZ2GameActivity}" drawable="pvz2" />
     <item component="ComponentInfo{com.ea.game.pvz2_auz/com.popcap.PvZ2.PvZ2GameActivity}" drawable="altverz" />
     <item component="ComponentInfo{com.distractionware.superhexagon.humble/com.distractionware.superhexagon.SplashScreenActivity}" drawable="super_hexagon" />
 

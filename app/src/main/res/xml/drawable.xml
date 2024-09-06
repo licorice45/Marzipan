@@ -81,6 +81,8 @@
     <item drawable="crossy_road" />
     <item drawable="minecraft" />
     <item drawable="pacman" name="Pac-Man" />
+    <item drawable="pvz" name="Plants vs Zombies" />
+    <item drawable="pvz2" name="Plants vs Zombies 2" />
     <item drawable="altverz" name="AltverZ" />
     <item drawable="super_hexagon" />
 
