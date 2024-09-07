@@ -73,6 +73,7 @@
     <item drawable="obtainium" />
     <item drawable="jellyfin" />
     <item drawable="godot" />
+    <item drawable="wikipedia" />
 
     <category title="Games" />
     <item drawable="lexica" />

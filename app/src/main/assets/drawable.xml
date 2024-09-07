@@ -42,6 +42,7 @@
     <item drawable="instagram" />
     <item drawable="meta_messenger" name="Messenger" />
     <item drawable="pinterest" />
+    <item drawable="reddit" />
     <item drawable="signal" />
     <item drawable="spotify" />
     <item drawable="tiktok" name="TikTok" />
@@ -64,6 +65,7 @@
     <item drawable="arcticons" />
     <item drawable="arcticons_black" />
     <item drawable="arcticons_you" name="Arcticons Material You" />
+    <item drawable="delta_icons" />
     <item drawable="dollphone" />
     <item drawable="aurora_store" />
     <item drawable="f_droid" name="F-Droid" />
@@ -71,6 +73,7 @@
     <item drawable="obtainium" />
     <item drawable="jellyfin" />
     <item drawable="godot" />
+    <item drawable="wikipedia" />
 
     <category title="Games" />
     <item drawable="lexica" />
@@ -82,6 +85,7 @@
     <item drawable="crossy_road" />
     <item drawable="minecraft" />
     <item drawable="pacman" name="Pac-Man" />
+    <item drawable="pokemon_go" name="Pokémon Go" />
     <item drawable="pvz" name="Plants vs Zombies" />
     <item drawable="pvz2" name="Plants vs Zombies 2" />
     <item drawable="altverz" name="AltverZ" />

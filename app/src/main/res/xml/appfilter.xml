@@ -125,6 +125,7 @@
     <item component="ComponentInfo{nl.moeilijkedingen.jellyfinaudioplayer/nl.moeilijkedingen.jellyfinaudioplayer.MainActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{org.godotengine.editor.v3/org.godotengine.editor.GodotProjectManager}" drawable="godot" />
     <item component="ComponentInfo{org.godotengine.editor.v4/org.godotengine.editor.GodotProjectManager}" drawable="godot" />
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
 
     <!-- Games -->
     <item component="ComponentInfo{com.serwylo.lexica/com.serwylo.lexica.MainMenuActivity}" drawable="lexica" />
