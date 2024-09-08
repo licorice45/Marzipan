@@ -61,10 +61,6 @@
     <item drawable="mull" />
     <item drawable="tor" name="Tor Browser" />
 
-    <category title="Keyboard" />
-    <item drawable="keyboard" />
-    <item drawable="gboard" />
-
     <category title="Misc" />
     <item drawable="marzipan" />
     <item drawable="arcticons" />
@@ -72,6 +68,8 @@
     <item drawable="arcticons_you" name="Arcticons Material You" />
     <item drawable="delta_icons" />
     <item drawable="dollphone" />
+    <item drawable="keyboard" />
+    <item drawable="gboard" />
     <item drawable="aurora_store" />
     <item drawable="f_droid" name="F-Droid" />
     <item drawable="google_play" />
