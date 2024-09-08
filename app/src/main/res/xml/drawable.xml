@@ -31,6 +31,7 @@
     <item drawable="aegis" />
     <item drawable="github" name="GitHub" />
     <item drawable="google_auth" name="Google Authenticator" />
+    <item drawable="google_photos" />
     <item drawable="hypatia" />
     <item drawable="localsend" name="LocalSend" />
     <item drawable="obsidian" />
@@ -59,6 +60,10 @@
     <item drawable="google" />
     <item drawable="mull" />
     <item drawable="tor" name="Tor Browser" />
+
+    <category title="Keyboard" />
+    <item drawable="keyboard" />
+    <item drawable="gboard" />
 
     <category title="Misc" />
     <item drawable="marzipan" />
