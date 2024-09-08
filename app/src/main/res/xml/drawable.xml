@@ -93,5 +93,7 @@
     <item drawable="pvz2" name="Plants vs Zombies 2" />
     <item drawable="altverz" name="AltverZ" />
     <item drawable="super_hexagon" />
+    <item drawable="citra" />
+    <item drawable="dolphin" />
 
 </resources>
