@@ -49,6 +49,7 @@
     <item drawable="reddit" />
     <item drawable="signal" />
     <item drawable="spotify" />
+    <item drawable="telegram" />
     <item drawable="tiktok" name="TikTok" />
     <item drawable="whatsapp" name="WhatsApp" />
     <item drawable="youtube" name="YouTube" />
