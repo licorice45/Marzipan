@@ -40,7 +40,7 @@
 
         <!-- Card -->
         <item name="cb_cardBackground">@android:color/system_accent1_100</item>
-        <item name="cb_cardStroke">@android:color/system_accent2_50</item>
+        <item name="cb_cardStroke">@android:color/system_accent1_100</item>
 
         <!-- Ripple -->
         <item name="cb_rippleColor">@android:color/system_accent1_100</item>
