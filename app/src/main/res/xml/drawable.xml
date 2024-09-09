@@ -38,10 +38,12 @@
     <item drawable="obsidian" />
 
     <category title="Social" />
+    <item drawable="bluesky" />
     <item drawable="discord" />
     <item drawable="element" />
     <item drawable="facebook" />
     <item drawable="instagram" />
+    <item drawable="mastodon" />
     <item drawable="meta_messenger" name="Messenger" />
     <item drawable="pinterest" />
     <item drawable="reddit" />
