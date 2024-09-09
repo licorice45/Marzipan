@@ -65,6 +65,10 @@
 
     <!-- Utility -->
     <item component="ComponentInfo{com.beemdevelopment.aegis/com.beemdevelopment.aegis.ui.MainActivity}" drawable="aegis" />
+    <item component="ComponentInfo{com.atharok.barcodescanner/com.atharok.barcodescanner.presentation.views.activities.MainActivity}" drawable="barcode_scanner" />
+    <item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="barcode_scanner" />
+    <item component="ComponentInfo{org.musicbrainz.picard.barcodescanner/org.musicbrainz.picard.barcodescanner.activities.ScannerActivity}" drawable="barcode_scanner" />
+    <item component="ComponentInfo{com.example.barcodescanner/com.example.barcodescanner.feature.tabs.BottomTabsActivity}" drawable="barcode_scanner" />
     <item component="ComponentInfo{com.github.android/com.github.android.main.MainActivity}" drawable="github" />
     <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="google_auth" />
     <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos" />

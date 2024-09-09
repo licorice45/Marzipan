@@ -29,6 +29,7 @@
 
     <category title="Utility" />
     <item drawable="aegis" />
+    <item drawable="barcode_scanner" />
     <item drawable="github" name="GitHub" />
     <item drawable="google_auth" name="Google Authenticator" />
     <item drawable="google_photos" />
