@@ -33,6 +33,7 @@
     <item drawable="barcode_scanner" />
     <item drawable="document_viewer" />
     <item drawable="github" name="GitHub" />
+    <item drawable="google_assistant" />
     <item drawable="google_auth" name="Google Authenticator" />
     <item drawable="google_photos" />
     <item drawable="hypatia" />
@@ -51,6 +52,7 @@
     <item drawable="pinterest" />
     <item drawable="reddit" />
     <item drawable="signal" />
+    <item drawable="snapchat" />
     <item drawable="spotify" />
     <item drawable="telegram" />
     <item drawable="tiktok" name="TikTok" />
