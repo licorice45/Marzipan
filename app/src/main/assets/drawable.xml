@@ -22,6 +22,7 @@
     <item drawable="notes" />
     <item drawable="recorder" />
     <item drawable="flashlight" />
+    <item drawable="app_drawer" />
     <item drawable="backup" />
     <item drawable="firewall" />
     <item drawable="settings" />

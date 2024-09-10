@@ -8,10 +8,10 @@
     <item component=":CAMERA" drawable="camera" />
     <item component=":CLOCK" drawable="clock" />
     <item component=":CONTACTS" drawable="contacts" />
-    <item component=":EMAIL" drawable="email" />
+    <item component=":EMAIL" drawable="mail" />
     <item component=":GALLERY" drawable="gallery" />
-    <item component=":PHONE" drawable="phone" />
-    <item component=":SMS" drawable="messaging" />
+    <item component=":PHONE" drawable="dialer" />
+    <item component=":SMS" drawable="sms" />
     <item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="app_drawer" />
 
     <!-- Icons -->
