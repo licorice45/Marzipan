@@ -69,12 +69,14 @@
     <item component="ComponentInfo{de.markusfisch.android.binaryeye/de.markusfisch.android.binaryeye.activity.SplashActivity}" drawable="barcode_scanner" />
     <item component="ComponentInfo{org.musicbrainz.picard.barcodescanner/org.musicbrainz.picard.barcodescanner.activities.ScannerActivity}" drawable="barcode_scanner" />
     <item component="ComponentInfo{com.example.barcodescanner/com.example.barcodescanner.feature.tabs.BottomTabsActivity}" drawable="barcode_scanner" />
+    <item component="ComponentInfo{com.artifex.mupdf.viewer.app/com.artifex.mupdf.viewer.app.LibraryActivity}" drawable="document_viewer" />
     <item component="ComponentInfo{com.github.android/com.github.android.main.MainActivity}" drawable="github" />
     <item component="ComponentInfo{com.google.android.apps.authenticator2/com.google.android.apps.authenticator.AuthenticatorActivity}" drawable="google_auth" />
     <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos" />
     <item component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}" drawable="localsend" />
 
     <!-- Social -->
+    <item component="ComponentInfo{com.poppingmoon.aria/com.ryanheise.audioservice.AudioServiceActivity}" drawable="aria" />
     <item component="ComponentInfo{xyz.blueskyweb.app/xyz.blueskyweb.app.MainActivity}" drawable="bluesky" />
     <item component="ComponentInfo{io.github.pyoncord.app/com.discord.main.MainDefault}" drawable="discord" />
     <item component="ComponentInfo{io.github.pyoncord.manager/dev.beefers.vendetta.manager.ui.activity.MainActivity}" drawable="discord" />
@@ -96,6 +98,7 @@
     <item component="ComponentInfo{com.spotify.lite/com.spotify.litenavigation.launcher.LauncherActivity}" drawable="spotify" />
     <item component="ComponentInfo{com.spotify.s4a/com.spotify.s4a.SplashActivity}" drawable="spotify" />
     <item component="ComponentInfo{fm.anchor.android/com.spotify.app.s4p.main.applications.s4p.MainActivity}" drawable="spotify" />
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.messenger.DefaultIcon}" drawable="telegram" />
     <item component="ComponentInfo{com.zhiliaoapp.musically/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tiktok" />
     <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
     <item component="ComponentInfo{com.google.android.apps.youtube.music/com.google.android.apps.youtube.music.activities.MusicActivity}" drawable="youtube"/>
@@ -135,6 +138,7 @@
     <item component="ComponentInfo{org.jellyfin.androidtv/org.jellyfin.androidtv.ui.startup.StartupActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{com.unicornsonlsd.finamp/com.ryanheise.audioservice.AudioServiceActivity}" drawable="jellyfin" />
     <item component="ComponentInfo{nl.moeilijkedingen.jellyfinaudioplayer/nl.moeilijkedingen.jellyfinaudioplayer.MainActivity}" drawable="jellyfin" />
+    <item component="ComponentInfo{com.netflix.mediaclient/com.netflix.mediaclient.ui.launch.UIWebViewActivity}" drawable="netflix" />
     <item component="ComponentInfo{org.godotengine.editor.v3/org.godotengine.editor.GodotProjectManager}" drawable="godot" />
     <item component="ComponentInfo{org.godotengine.editor.v4/org.godotengine.editor.GodotProjectManager}" drawable="godot" />
     <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia" />
