@@ -31,6 +31,7 @@
     <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
     <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" />
     <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="cloud"/>
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="cloud"/>
     <item component="ComponentInfo{me.proton.android.drive/me.proton.android.drive.ui.MainActivity}" drawable="cloud"/>
     <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
     <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
@@ -110,6 +111,7 @@
     <item component="ComponentInfo{com.whatsapp.w4b/com.whatsapp.Main}" drawable="whatsapp" />
 
     <!-- Browsers -->
+    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="web_browser" />
     <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="chrome" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="chromium" />
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
@@ -153,13 +155,23 @@
     <item component="ComponentInfo{com.innersloth.spacemafia/com.innersloth.spacemafia.EosUnityPlayerActivity}" drawable="among_us" />
     <item component="ComponentInfo{jp.co.ponos.battlecatsen/jp.co.ponos.battlecats.MyActivity}" drawable="battle_cats" />
     <item component="ComponentInfo{com.yodo1.crossyroad/com.google.firebase.MessagingUnityPlayerActivity}" drawable="crossy_road" />
+    <item component="ComponentInfo{net.kdt.pojavlaunch/net.kdt.pojavlaunch.TestStorageActivity}" drawable="minecraft" />
     <item component="ComponentInfo{com.namcobandaigames.pacmantournaments/com.unity3d.player.UnityPlayerActivity}" drawable="pacman" />
     <item component="ComponentInfo{eu.bandainamcoent.pacman256/com.unity3d.player.UnityPlayerActivity}" drawable="pacman" />
     <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go" />
     <item component="ComponentInfo{com.ea.game.pvzfree_row/com.ea.game.pvzfree_row.PvZActivity}" drawable="pvz" />
     <item component="ComponentInfo{com.ea.game.pvz2_row/com.popcap.PvZ2.PvZ2GameActivity}" drawable="pvz2" />
     <item component="ComponentInfo{com.ea.game.pvz2_auz/com.popcap.PvZ2.PvZ2GameActivity}" drawable="altverz" />
+    <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="solitaire" />
+    <item component="ComponentInfo{org.secuso.privacyfriendlysolitaire/org.secuso.privacyfriendlysolitaire.Activities.SplashActivity}" drawable="solitaire" />
+    <item component="ComponentInfo{org.lufebe16.pysolfc/org.kivy.android.PythonActivity}" drawable="solitaire" />
+    <item component="ComponentInfo{de.tobiasbielefeld.solitaire/de.tobiasbielefeld.solitaire.ui.GameSelector}" drawable="solitaire" />
+    <item component="ComponentInfo{ogz.tripeaks/ogz.tripeaks.android.AndroidLauncher}" drawable="solitaire" />
+    <item component="ComponentInfo{io.itch.pirate_solitaire/com.godot.game.GodotApp}" drawable="solitaire" />
     <item component="ComponentInfo{com.distractionware.superhexagon.humble/com.distractionware.superhexagon.SplashScreenActivity}" drawable="super_hexagon" />
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.MainActivity}" drawable="steam" />
+    <item component="ComponentInfo{com.valvesoftware.android.steam.friendsui/com.valvesoftware.android.steam.friendsui.MainActivity}" drawable="steam" />
+    <item component="ComponentInfo{com.valvesoftware.steamlink/com.valvesoftware.steamlink.SteamShellActivity}" drawable="steam" />
     <item component="ComponentInfo{org.citra.citra_emu/org.citra.citra_emu.ui.main.MainActivity}" drawable="citra" />
     <item component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}" drawable="dolphin" />
 
