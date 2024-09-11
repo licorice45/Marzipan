@@ -159,6 +159,12 @@
     <item component="ComponentInfo{com.ea.game.pvzfree_row/com.ea.game.pvzfree_row.PvZActivity}" drawable="pvz" />
     <item component="ComponentInfo{com.ea.game.pvz2_row/com.popcap.PvZ2.PvZ2GameActivity}" drawable="pvz2" />
     <item component="ComponentInfo{com.ea.game.pvz2_auz/com.popcap.PvZ2.PvZ2GameActivity}" drawable="altverz" />
+    <item component="ComponentInfo{com.microsoft.microsoftsolitairecollection/com.smokingguninc.engine.framework.SgiLauncherActivity}" drawable="solitaire" />
+    <item component="ComponentInfo{org.secuso.privacyfriendlysolitaire/org.secuso.privacyfriendlysolitaire.Activities.SplashActivity}" drawable="solitaire" />
+    <item component="ComponentInfo{org.lufebe16.pysolfc/org.kivy.android.PythonActivity}" drawable="solitaire" />
+    <item component="ComponentInfo{de.tobiasbielefeld.solitaire/de.tobiasbielefeld.solitaire.ui.GameSelector}" drawable="solitaire" />
+    <item component="ComponentInfo{ogz.tripeaks/ogz.tripeaks.android.AndroidLauncher}" drawable="solitaire" />
+    <item component="ComponentInfo{io.itch.pirate_solitaire/com.godot.game.GodotApp}" drawable="solitaire" />
     <item component="ComponentInfo{com.distractionware.superhexagon.humble/com.distractionware.superhexagon.SplashScreenActivity}" drawable="super_hexagon" />
     <item component="ComponentInfo{org.citra.citra_emu/org.citra.citra_emu.ui.main.MainActivity}" drawable="citra" />
     <item component="ComponentInfo{org.dolphinemu.dolphinemu/org.dolphinemu.dolphinemu.ui.main.MainActivity}" drawable="dolphin" />
