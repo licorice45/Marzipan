@@ -30,6 +30,7 @@
 
     <category title="Utility" />
     <item drawable="aegis" />
+    <item drawable="authy" />
     <item drawable="barcode_scanner" />
     <item drawable="document_viewer" />
     <item drawable="github" name="GitHub" />
