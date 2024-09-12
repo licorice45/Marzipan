@@ -66,6 +66,7 @@
     <item drawable="web_browser" />
     <item drawable="chrome" />
     <item drawable="chromium" />
+    <item drawable="duckduckgo" name="DuckDuckGo" />
     <item drawable="firefox" />
     <item drawable="google" />
     <item drawable="mull" />
