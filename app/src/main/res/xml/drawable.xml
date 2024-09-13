@@ -98,6 +98,7 @@
     <item drawable="among_us" />
     <item drawable="battle_cats" />
     <item drawable="crossy_road" />
+    <item drawable="geometry_dash" />
     <item drawable="minecraft" />
     <item drawable="pacman" name="Pac-Man" />
     <item drawable="pokemon_go" name="Pokémon Go" />
@@ -106,6 +107,7 @@
     <item drawable="altverz" name="AltverZ" />
     <item drawable="solitaire" />
     <item drawable="super_hexagon" />
+    <item drawable="nso" name="Nintendo Switch Online" />
     <item drawable="steam" />
     <item drawable="citra" />
     <item drawable="dolphin" />
