@@ -33,6 +33,7 @@
     <item drawable="authy" />
     <item drawable="barcode_scanner" />
     <item drawable="document_viewer" />
+    <item drawable="draw" />
     <item drawable="github" name="GitHub" />
     <item drawable="google_assistant" />
     <item drawable="google_auth" name="Google Authenticator" />
@@ -48,6 +49,7 @@
     <item drawable="element" />
     <item drawable="facebook" />
     <item drawable="instagram" />
+    <item drawable="linkedin" name="LinkedIn" />
     <item drawable="mastodon" />
     <item drawable="meta_messenger" name="Messenger" />
     <item drawable="pinterest" />

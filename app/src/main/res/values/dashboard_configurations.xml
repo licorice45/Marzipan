@@ -306,7 +306,7 @@
         ex: <string-array name="about_social_links"></string-array>
         -->
     <string-array name="about_social_links">
-        <item>https://licorice45.github.io/</item>
+        <item>https://licorice45.github.io/projects/marzipan.html</item>
     </string-array>
 
     <!-- Contributors dialog
