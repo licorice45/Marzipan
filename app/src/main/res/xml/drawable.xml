@@ -39,6 +39,7 @@
     <item drawable="google_auth" name="Google Authenticator" />
     <item drawable="google_photos" />
     <item drawable="hypatia" />
+    <item drawable="kde_connect" name="KDE Connect" />
     <item drawable="localsend" name="LocalSend" />
     <item drawable="obsidian" />
 
