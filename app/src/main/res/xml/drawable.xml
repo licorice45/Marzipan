@@ -42,6 +42,7 @@
     <item drawable="kde_connect" name="KDE Connect" />
     <item drawable="localsend" name="LocalSend" />
     <item drawable="obsidian" />
+    <item drawable="rss" name="RSS Reader" />
 
     <category title="Social" />
     <item drawable="aria" />

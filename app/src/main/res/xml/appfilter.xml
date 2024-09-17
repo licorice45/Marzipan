@@ -84,6 +84,11 @@
     <item component="ComponentInfo{us.spotco.malwarescanner/us.spotco.malwarescanner.MainActivity}" drawable="hypatia" />
     <item component="ComponentInfo{org.kde.kdeconnect_tp/org.kde.kdeconnect.UserInterface.MainActivity}" drawable="kde_connect" />
     <item component="ComponentInfo{org.localsend.localsend_app/org.localsend.localsend_app.MainActivity}" drawable="localsend" />
+    <item component="ComponentInfo{com.capyreader.app/com.capyreader.app.MainActivity}" drawable="rss" />
+    <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="rss" />
+    <item component="ComponentInfo{com.nononsenseapps.feeder.play/com.nononsenseapps.feeder.ui.MainActivity}" drawable="rss" />
+    <item component="ComponentInfo{com.nunti/com.nunti.MainActivity}" drawable="rss" />
+    <item component="ComponentInfo{me.ash.reader/me.ash.reader.infrastructure.android.MainActivity}" drawable="rss" />
 
     <!-- Social -->
     <item component="ComponentInfo{com.poppingmoon.aria/com.ryanheise.audioservice.AudioServiceActivity}" drawable="aria" />
