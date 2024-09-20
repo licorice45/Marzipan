@@ -103,6 +103,8 @@
     <item drawable="battle_cats" />
     <item drawable="crossy_road" />
     <item drawable="geometry_dash" />
+    <item drawable="geometry_dash_meltdown" />
+    <item drawable="geometry_dash_subzero" name="Geometry Dash SubZero" />
     <item drawable="minecraft" />
     <item drawable="pacman" name="Pac-Man" />
     <item drawable="pokemon_go" name="Pokémon Go" />
@@ -110,6 +112,7 @@
     <item drawable="pvz2" name="Plants vs Zombies 2" />
     <item drawable="altverz" name="AltverZ" />
     <item drawable="solitaire" />
+    <item drawable="strawberry" />
     <item drawable="super_hexagon" />
     <item drawable="nso" name="Nintendo Switch Online" />
     <item drawable="steam" />
