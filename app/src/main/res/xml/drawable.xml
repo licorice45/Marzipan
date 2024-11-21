@@ -43,6 +43,7 @@
     <item drawable="localsend" name="LocalSend" />
     <item drawable="obsidian" />
     <item drawable="rss" name="RSS Reader" />
+    <item drawable="tandoor" />
 
     <category title="Social" />
     <item drawable="aria" />
