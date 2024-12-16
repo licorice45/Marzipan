@@ -39,8 +39,11 @@
     <item drawable="google_auth" name="Google Authenticator" />
     <item drawable="google_photos" />
     <item drawable="hypatia" />
+    <item drawable="kde_connect" name="KDE Connect" />
     <item drawable="localsend" name="LocalSend" />
     <item drawable="obsidian" />
+    <item drawable="rss" name="RSS Reader" />
+    <item drawable="tandoor" />
 
     <category title="Social" />
     <item drawable="aria" />
@@ -88,6 +91,7 @@
     <item drawable="google_play" />
     <item drawable="obtainium" />
     <item drawable="jellyfin" />
+    <item drawable="jellyfin_music" />
     <item drawable="netflix" />
     <item drawable="godot" />
     <item drawable="wikipedia" />
@@ -101,13 +105,17 @@
     <item drawable="battle_cats" />
     <item drawable="crossy_road" />
     <item drawable="geometry_dash" />
+    <item drawable="geometry_dash_meltdown" />
+    <item drawable="geometry_dash_subzero" name="Geometry Dash SubZero" />
     <item drawable="minecraft" />
+    <item drawable="molecano" />
     <item drawable="pacman" name="Pac-Man" />
     <item drawable="pokemon_go" name="Pokémon Go" />
     <item drawable="pvz" name="Plants vs Zombies" />
     <item drawable="pvz2" name="Plants vs Zombies 2" />
     <item drawable="altverz" name="AltverZ" />
     <item drawable="solitaire" />
+    <item drawable="strawberry" />
     <item drawable="super_hexagon" />
     <item drawable="nso" name="Nintendo Switch Online" />
     <item drawable="steam" />

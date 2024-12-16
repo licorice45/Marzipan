@@ -118,6 +118,7 @@
     <item drawable="strawberry" />
     <item drawable="super_hexagon" />
     <item drawable="nso" name="Nintendo Switch Online" />
+    <item drawable="itch_io" name="Itch.io" />
     <item drawable="steam" />
     <item drawable="citra" />
     <item drawable="dolphin" />
