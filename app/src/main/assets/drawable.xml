@@ -97,8 +97,10 @@
     <item drawable="wikipedia" />
 
     <category title="Games" />
+    <item drawable="video_games" />
     <item drawable="lexica" />
     <item drawable="quinb" />
+    <item drawable="unciv" />
     <item drawable="xeonjia" />
     <item drawable="zoysii" />
     <item drawable="among_us" />
@@ -118,6 +120,7 @@
     <item drawable="strawberry" />
     <item drawable="super_hexagon" />
     <item drawable="nso" name="Nintendo Switch Online" />
+    <item drawable="itch_io" name="Itch.io" />
     <item drawable="steam" />
     <item drawable="citra" />
     <item drawable="dolphin" />

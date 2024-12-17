@@ -97,8 +97,10 @@
     <item drawable="wikipedia" />
 
     <category title="Games" />
+    <item drawable="video_games" />
     <item drawable="lexica" />
     <item drawable="quinb" />
+    <item drawable="unciv" />
     <item drawable="xeonjia" />
     <item drawable="zoysii" />
     <item drawable="among_us" />
